@@ -1,0 +1,8 @@
+{
+  "name": "openai-agent-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@openai/agents": "latest"
+  }
+}
